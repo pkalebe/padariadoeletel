@@ -12,8 +12,8 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
     margin: 0;
-    color: #ff0000;             /* marrom escuro (texto) */
-    background-color: #0427ee;  /* creme (fundo) */
+    color: #15bef1;             /* marrom escuro (texto) */
+    background-color: #000000;  /* creme (fundo) */
 }
 
 /* ===== Cabeçalho ===== */

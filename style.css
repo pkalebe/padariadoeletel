@@ -19,7 +19,7 @@ body {
 /* ===== Cabeçalho ===== */
 .cabecalho {
     background-color: #000000;  /* âmbar escuro — texto branco tem contraste AA */
-    color: #eb0000;
+    color: #f0f0f0;
     text-align: center;
     padding: 24px 16px;
 }
@@ -34,7 +34,7 @@ body {
 }
 
 .menu a {
-    color: #FFFFFF;
+    color: #b14343;
     text-decoration: none;
     margin: 0 10px;
     font-weight: bold;

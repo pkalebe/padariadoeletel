@@ -19,7 +19,7 @@ body {
 /* ===== Cabeçalho ===== */
 .cabecalho {
     background-color: #000000;  /* âmbar escuro — texto branco tem contraste AA */
-    color: #f0f0f0;
+    color: #3cc0ce;
     text-align: center;
     padding: 24px 16px;
 }
